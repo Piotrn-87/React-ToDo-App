@@ -10,21 +10,19 @@ function MyApp() {
 
     if (hours >= 9 && hours < 12) {
         timeOfday = "Morning";
-    }
-    else if (hours >= 13 && hours < 20) {
+    } else if (hours >= 13 && hours < 20) {
         timeOfday = "Aternoon";
-    }
-    else {
+    } else {
         timeOfday = "Night";
     }
     return (
-        <div className="todo-list">
+        <div className="todo-list" >
             <TodoApp />
             <TodoApp />
             <TodoApp />
             <TodoApp />
-            <h1 className="todo-list__text">It is {timeOfday}</h1>
-        </div>
+            <h1 className="todo-list__text" > It is {timeOfday}</h1>
+        </div >
     )
 }
 

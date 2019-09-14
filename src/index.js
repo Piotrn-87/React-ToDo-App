@@ -6,4 +6,4 @@ import './MyApp.css'
 
 const root = document.getElementById("root");
 
-ReactDOM.render( < MyApp / > , root);
+ReactDOM.render(< MyApp />, root);
