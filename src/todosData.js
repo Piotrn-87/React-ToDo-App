@@ -23,6 +23,11 @@ const todosData = [
     id: 5,
     text: "send CV to softwareHouse",
     comleted: false
+  },
+  {
+    id: 6,
+    text: "Training React.js once a day every day",
+    completed: false
   }
 ];
 export default todosData;
