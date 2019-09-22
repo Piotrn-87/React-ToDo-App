@@ -7,7 +7,7 @@ function TodoApp(props) {
         className="todo-item__input"
         type="checkbox"
         checked={props.item.completed}
-        onChange={() => console.log("Change")}
+        onChange={() => props.handleChange(props.item.id)}
       ></input>
       <p className="todo-item__paragraph"> {props.item.text} </p>
     </div>
