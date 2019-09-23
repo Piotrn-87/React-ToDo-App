@@ -1,4 +1,4 @@
-# ReactApp
+# ReactApp Todo Application
 
 # TechnologiesI've used
 * React.js
