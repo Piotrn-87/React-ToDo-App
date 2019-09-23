@@ -1,5 +1,4 @@
-const todosData = [
-  {
+const todosData = [{
     id: 1,
     text: "Take out the trash",
     completed: true
@@ -16,18 +15,18 @@ const todosData = [
   },
   {
     id: 4,
-    text: "finish your application",
+    text: "Finish your application",
     completed: false
   },
   {
     id: 5,
-    text: "send CV to softwareHouse",
+    text: "Send CV to softwareHouse",
     comleted: false
   },
   {
     id: 6,
     text: "Training React.js once a day every day",
     completed: false
-  }
+  },
 ];
 export default todosData;
