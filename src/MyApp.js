@@ -12,10 +12,10 @@ class MyApp extends React.Component {
     this.handleChange = this.handleChange.bind(this);
   }
 
-  handleChange(xxx) {
+  handleChange(id) {
     this.setState(prevState => {
       const updatedTodos = prevState.todos.map(todo => {
-        if (todo.id === xxx) {
+        if (todo.id === id) {
           todo.completed = !todo.completed;
         }
         return todo;
