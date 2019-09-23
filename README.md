@@ -1,9 +1,10 @@
 # ReactApp
 
 # TechnologiesI've used
-* React
+* React.js
 * Visual Studio Code
-* Git..
+* Git
+* BEM
 
 # Contact
  feel free to contact me! 
