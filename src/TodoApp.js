@@ -6,6 +6,7 @@ function TodoApp(props) {
     color: "green",
     textDecoration: "line-through"
   };
+
   return (
     <div className="todo-item">
       <input
