@@ -1,9 +1,11 @@
 # ReactApp
 
 # TechnologiesI've used
-* React
-* Visual Studio Code
-* Git..
+
+- React
+- Visual Studio Code
+- Git..
 
 # Contact
- feel free to contact me! 
+
+feel free to contact me!
