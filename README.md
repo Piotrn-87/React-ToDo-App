@@ -22,3 +22,5 @@ npm run build
 # Contact
  feel free to contact me! 
  
+### Version
+1.0.0
